@@ -3,9 +3,9 @@
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/aaroncox/vessel/master/LICENSE)
 ![downloads](https://img.shields.io/github/downloads/aaroncox/vessel/total.svg)
 
-# Vessel - Steem Desktop Wallet
+# Firebox - Steem-Engine Desktop Wallet
 
-Vessel is a lite wallet for the Steem blockchain that you can run on your desktop computer without needing to run the blockchain itself.
+Firebox is a Steem-Engine functionality fork of Vessel, a lite wallet for the Steem blockchain that you can run on your desktop computer without needing to run the blockchain itself.
 
 **This is experimental and messy software at the moment, please use with caution.**
 
@@ -20,11 +20,11 @@ Vessel is a lite wallet for the Steem blockchain that you can run on your deskto
 
 ## Questions or ideas?
 
-We have a [chainBB](https://chainbb.com) forum (powered by the Steem blockchain) running here:
+We have a Tag on Steemit (powered by the Steem blockchain) running here:
 
-[https://chainbb.com/f/vessel](https://chainbb.com/f/vessel)
+[https://steemit.com/created/firebox](https://steemit.com/created/firebox)
 
-This forum will serve as the primary point of discussion for the Vessel desktop wallet.
+This #firebox tag will serve as the primary point of discussion for the Vessel desktop wallet.
 
 ## Support this App
 
